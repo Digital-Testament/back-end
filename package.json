@@ -1,10 +1,10 @@
 {
-  "name": "nodejs-setup",
+  "name": "digital-testament-server",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:mateusfg7/nodejs-setup.git",
-  "author": "mateusfg7 <mateusfelipefg77@gmail.com>",
-  "license": "MIT",
+  "repository": "git@github.com:Digital-Testament/back-end.git",
+  "author": "mateusfg7 <mateusfg7@protonmail.com>",
+  // "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev -r tsconfig-paths/register --respawn --transpile-only --ignore-watch node_modules --no-notify src/server.ts"
   },
