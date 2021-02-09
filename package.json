@@ -1,7 +1,7 @@
 {
   "name": "digital-testament-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/server.ts",
   "repository": "git@github.com:Digital-Testament/back-end.git",
   "author": "mateusfg7 <mateusfg7@protonmail.com>",
   "license": "None",
